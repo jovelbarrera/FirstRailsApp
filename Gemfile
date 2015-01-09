@@ -7,6 +7,8 @@ gem 'rails', '4.2.0'
 group :developmet do
 	gem 'sqlite3', '1.3.8'
 end
+gem 'bootstrap-sass', '~> 3.2.0'
+gem 'autoprefixer-rails'
 
 gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
